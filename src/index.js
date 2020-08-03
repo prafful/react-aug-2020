@@ -7,5 +7,9 @@ import RootComponent from "./component/RootComponent";
 
 
 
-ReactDOM.render(  <RootComponent></RootComponent> , document.getElementById('root'))
+ReactDOM.render(  
+                        <RootComponent></RootComponent> 
+               
+
+    , document.getElementById('root'))
 
