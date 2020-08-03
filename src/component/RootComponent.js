@@ -1,6 +1,6 @@
 import React from "react"
-import Header from "./spa/header";
-import Content from "./spa/content";
+import Header from "./spa/header/header";
+import Content from "./spa/contentcontainer/content";
 
 class RootComponent extends React.Component{
 

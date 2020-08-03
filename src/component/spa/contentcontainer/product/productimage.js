@@ -5,7 +5,7 @@ class ProductImage extends React.Component {
     render() { 
         return (  
             <span>
-                <img src=""></img>
+                <img src="" alt="pi"></img>
             </span>
         );
     }
