@@ -11,7 +11,6 @@ class NavigationBar extends React.Component {
             display:'inline',
             padding: '10px',
             margin: '5px'
-            
         }
 
 
